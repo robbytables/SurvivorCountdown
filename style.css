@@ -1,0 +1,10 @@
+body {
+    background-image: url("survivor-bg.jpg");
+  background-size: 100% auto;
+  background: cover;
+  
+}
+h1 {
+    text-align: center;
+    color: white;
+}
